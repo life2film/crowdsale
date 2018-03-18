@@ -1,0 +1,35 @@
+Token name: LIFE2FILM
+
+Token ticker: LIFE
+
+Token decimals: 15
+
+Multisig wallet address: 0xD890BA6fc1e30bE7dfEaD36Bb976Ad98274a4A92
+
+*****************************
+
+Crowdsale rate: 10000
+
+Crowdsale start time: 2018-03-17T23:59 (GMT + 5)
+
+Crowdsale end time: 2018-05-21T00:00 (GMT + 5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Null finalize agent contract name: NullFinalizeAgentExt
+
+Null finalize agent contract address for PrePreCrowdsale: 0x3e944c004F8850242CaB7e9B71b6334EBe1a8A90
+
+*****************************
+
+****Null Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"inputs":[{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Null Finalize agent contract ABI encoded constructor arguments for PrePreCrowdsale:**** 
+
+000000000000000000000000dee02e16701f9cb31595724d37ee5843131ad00f

@@ -1,0 +1,31 @@
+Token name: LIFE2FILM
+
+Token ticker: LIFE
+
+Token decimals: 15
+
+Multisig wallet address: 0xD890BA6fc1e30bE7dfEaD36Bb976Ad98274a4A92
+
+*****************************
+
+Crowdsale rate: 10000
+
+Crowdsale start time: 2018-03-17T23:59 (GMT + 5)
+
+Crowdsale end time: 2018-05-21T00:00 (GMT + 5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xc9e0852EeeD8D3d5E5718bb9490D10825961364C
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
